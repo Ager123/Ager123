@@ -1,16 +1,5 @@
 ## Hey 👋, I'm Adrian!  
   
-
-<a href="https://github.com/Ager123" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/adrian-frias-8917991b3" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
 ### Glad to see you here!  
 I am a Full Stack web Developer, I am very interested in teamwork, exchanging ideas and learning new technologies to solve problems.
 
@@ -19,8 +8,18 @@ I studied at Soy Henry's Web Full Stack Developer bootcamp, with more than 800 h
 I am looking for work teams where I can add value with my training as a Mechanical-Electrical Technician and as an Electrical Engineering student, which helped me improve my analytical skills, problem solving, teamwork and leadership, or also with my experience as a teaching assistant at the university, which has helped me strengthen teaching skills as well.
 
 Do not hesitate to contact me.  
-  
 
+friasae123@gmail.com
+
++5493816570467
+  
+<a href="https://github.com/Ager123" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/adrian-frias-8917991b3" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
 <br/>  
 
 <table><tr><td valign="top" width="50%">
